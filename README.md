@@ -17,3 +17,7 @@ This repository is licensed under the Creative Commons Attribution-NonCommercial
 
 ## Feedback
 Feedback is welcome! Please feel free to open an issue or contact us directly.
+
+## DOI
+This repository is archived on Zenodo:
+[![DOI](https://zenodo.org/badge/DOIを表示する画像URL)](https://doi.org/10.5281/zenodo.14567916)
