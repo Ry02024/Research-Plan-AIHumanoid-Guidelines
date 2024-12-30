@@ -12,6 +12,17 @@ This repository contains the following drafts:
 - `docs/Research-Plan.docx`: Draft of the doctoral research plan.
 - `docs/AI-Guidelines.docx`: Draft of the AI guidelines.
 
+## IPFS
+The drafts are also stored on the IPFS network to ensure decentralization and immutability. You can access the files using the following IPFS links:
+
+1. **博士課程研究計画書**  
+   - CID: `bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4`  
+   - IPFS Link: [https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4](https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4)
+
+2. **生命中心のAIガイドライン**  
+   - CID: `bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi`  
+   - IPFS Link: [https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi](https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi)
+
 ## License
 This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license.
 
