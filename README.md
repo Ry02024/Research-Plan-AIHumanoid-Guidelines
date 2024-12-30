@@ -17,12 +17,12 @@ The drafts are also stored on the IPFS network to ensure decentralization and im
 
 1. **博士課程研究計画書**  
    - CID: `bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4`  
-   - IPFS Link: [https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4](https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4)
+   - IPFS Link: [https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4](https://ipfs.io/ipfs/bafkreiadwz5fwnawji7cfitzwixslbuzc3rwpzzzlndca2kojbcjpcsaq4)  
      **(Clicking this link will download the file.)**
 
 2. **生命中心のAIガイドライン**  
    - CID: `bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi`  
-   - IPFS Link: [https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi](https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi)
+   - IPFS Link: [https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi](https://ipfs.io/ipfs/bafkreidrmcwoachtekdfw7lkd3azye66re5da7j3lkwkjnglanu5vazpsi)  
      **(Clicking this link will download the file.)**
 
 ## License
