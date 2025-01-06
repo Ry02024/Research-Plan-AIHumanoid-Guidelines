@@ -26,18 +26,17 @@
      **(リンクをクリックするとファイルがダウンロードされます)**
 
 ## ライセンス
-本作品は [クリエイティブ・コモンズ 表示 4.0 国際ライセンス (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja) の下で提供されています。
+本作品は [クリエイティブ・コモンズ 表示 - 改変禁止 4.0 国際ライセンス (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/deed.ja) の下で提供されています。
 
 ### **このライセンスのもとで許可されること**
 - **共有** — どのような媒体や形式でも自由にコピー、再配布できます。
-- **改変** — 商用利用を含め、リミックス、変更、派生作品の作成が可能です。
+- **商用利用** — 改変せずに商用目的で利用することが可能です。
 
-### **条件**
-- **表示 (Attribution)** — 原著作者のクレジット (著者名と DOI を含む) を適切に表示し、ライセンスのリンクを提供する必要があります。
-- **追加制限なし** — このライセンスの条件を制限する追加規約や技術的制約を設けてはいけません。
+### **禁止事項**
+- **改変禁止 (No Derivatives)** — 本作品の内容を変更、リミックス、翻案して新たな作品を作ることはできません。
 
 © 2024 Ry02024  
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY-ND 4.0](https://licensebuttons.net/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 ## DOI
 このリポジトリは **Zenodo** にアーカイブされており、以下の DOI が発行されています。  
