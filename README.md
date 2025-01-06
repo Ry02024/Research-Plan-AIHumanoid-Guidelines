@@ -1,3 +1,22 @@
+**商用利用可能な CC BY ライセンスへの変更** に伴い、以下の修正を README に加える必要があります。
+
+---
+
+### **修正ポイント**
+1. **ライセンスを CC BY 4.0 に変更**
+   - 現在の `CC BY-NC-ND` (非営利・改変不可) では商用販売ができないため、`CC BY 4.0` に変更。
+   - `CC BY 4.0` では、**商用利用・改変も可能になるが、適切なクレジット表記が必須**。
+
+2. **販売用の説明を追加**
+   - **「このドキュメントは商用利用可能ですが、DOI を明記してください」** などの注意書きを追記。
+
+3. **販売リンク（BOOTH, Gumroad, note など）を追加**
+   - 販売サイトの URL を README に記載。
+
+---
+
+### **修正後の README**
+```markdown
 # Research Plan and AIHumanoid Guidelines
 
 This repository contains the following drafts:
@@ -26,11 +45,28 @@ The drafts are also stored on the IPFS network to ensure decentralization and im
      **(Clicking this link will download the file.)**
 
 ## License
-This repository is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) license.
+This work is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-## Feedback
-Feedback is welcome! Please feel free to open an issue or contact us directly.
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit (mention the author and DOI if applicable), provide a link to the license, and indicate if changes were made.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+© 2024 [Your Name / Organization]  
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ## DOI
 This repository is archived on Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567916.svg)](https://doi.org/10.5281/zenodo.14567916)
+
+## Purchase
+This document is available for purchase for **300 JPY** as part of an educational experiment on DOI and IPFS usage.
+
+- **BOOTH:** [https://booth.pm/en/items/XXXXX](https://booth.pm/en/items/XXXXX)
+- **Gumroad:** [https://gumroad.com/l/XXXXX](https://gumroad.com/l/XXXXX)
+- **note:** [https://note.com/XXXXX](https://note.com/XXXXX)
+
+```
