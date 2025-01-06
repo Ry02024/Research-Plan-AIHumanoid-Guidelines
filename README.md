@@ -49,5 +49,3 @@ This document is available for purchase for **300 JPY** as part of an educationa
 - **BOOTH:** [https://booth.pm/en/items/XXXXX](https://booth.pm/en/items/XXXXX)
 - **Gumroad:** [https://gumroad.com/l/XXXXX](https://gumroad.com/l/XXXXX)
 - **note:** [https://note.com/XXXXX](https://note.com/XXXXX)
-
-```
