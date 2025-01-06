@@ -1,22 +1,3 @@
-**商用利用可能な CC BY ライセンスへの変更** に伴い、以下の修正を README に加える必要があります。
-
----
-
-### **修正ポイント**
-1. **ライセンスを CC BY 4.0 に変更**
-   - 現在の `CC BY-NC-ND` (非営利・改変不可) では商用販売ができないため、`CC BY 4.0` に変更。
-   - `CC BY 4.0` では、**商用利用・改変も可能になるが、適切なクレジット表記が必須**。
-
-2. **販売用の説明を追加**
-   - **「このドキュメントは商用利用可能ですが、DOI を明記してください」** などの注意書きを追記。
-
-3. **販売リンク（BOOTH, Gumroad, note など）を追加**
-   - 販売サイトの URL を README に記載。
-
----
-
-### **修正後の README**
-```markdown
 # Research Plan and AIHumanoid Guidelines
 
 This repository contains the following drafts:
