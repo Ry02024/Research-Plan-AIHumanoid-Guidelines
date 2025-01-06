@@ -42,13 +42,3 @@
 ## DOI
 このリポジトリは **Zenodo** にアーカイブされており、以下の DOI が発行されています。  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567916.svg)](https://doi.org/10.5281/zenodo.14567916)
-
-## 購入について
-このドキュメントは、**DOI と IPFS を活用した実験的な販売** の一環として提供されています。  
-**価格: 300円**
-
-- **BOOTH:** [https://booth.pm/XXXXX](https://booth.pm/XXXXX)  
-- **Gumroad:** [https://gumroad.com/l/XXXXX](https://gumroad.com/l/XXXXX)  
-- **note:** [https://note.com/XXXXX](https://note.com/XXXXX)  
-
-購入者の方は、**この資料を自由に利用できますが、DOI を明記することが求められます**。
