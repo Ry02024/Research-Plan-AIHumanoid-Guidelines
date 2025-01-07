@@ -43,4 +43,4 @@
 
 ## DOI
 このリポジトリは **Zenodo** にアーカイブされており、以下の DOI が発行されています。  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567916.svg)](https://doi.org/10.5281/zenodo.14567916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14567916.svg)](https://zenodo.org/records/14575916)
