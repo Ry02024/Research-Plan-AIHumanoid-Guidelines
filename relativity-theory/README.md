@@ -93,7 +93,7 @@ jupyter notebook notebooks/gps_time_drift.ipynb
 
 ## **📌 関連リンク**
 ✅ **GitHub（ソースコード）**  
-➡ [relativity-theory](https://github.com/Ry02024/Research-Plan-AIHumanoid-Guidelines/relativity-theory)  
+➡ [relativity-theory]([https://github.com/Ry02024/Research-Plan-AIHumanoid-Guidelines/relativity-theory](https://github.com/Ry02024/Research-Plan-AIHumanoid-Guidelines/blob/main/relativity-theory)  
 
 ✅ **Qiita（技術記事）**  
 ➡ 準備中  
